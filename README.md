@@ -1,4 +1,4 @@
-# Match-The-Pairs-Game
+# Matching-Pairs-Game
   - Here is the another game that is designed in the scratch online.
       - Here is the published link of this game: https://scratch.mit.edu/projects/343755793 
   - Following Are The Rules Of Game:
